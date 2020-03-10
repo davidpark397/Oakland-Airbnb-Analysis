@@ -6,3 +6,5 @@ This repository contains the versions of data, figures generated, and Python not
 The data used in this analysis consists of Airbnb listings characteristics for the city of Oakland, CA from http://insideairbnb.com/get-the-data.html compiled on July 8, 2019.
 
 ##
+![alt text](https://github.com/davidpark397/Oakland-Airbnb-Analysis/blob/master/Figures/oak_basemap_proptype.pdf)
+
