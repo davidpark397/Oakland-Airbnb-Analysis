@@ -19,13 +19,13 @@ From the Python notebook:
 * There are 2288 unique hosts that have listings in the city of Oakland
 #### Neighborhood Information
 * The neighborhoods in Oakland that contain the most listings are Bushrod (138), Prescott (135), and Longfellow (119)
-* The neighborhoods with more than 60 listings that have highest average price are Claremont (\\$388.78), Upper Rockridge (\\$225.00), and Trestle Glen (\\$192.06)
+* The neighborhoods with more than 60 listings that have highest average price are Claremont (\$388.78), Upper Rockridge (\$225.00), and Trestle Glen (\$192.06)
     * It's difficult to characterize the 3 "most expensive" neighbhorhoods as the number of listings per neighborhood is realtively small (around 58 on average), making mean neighborhood listing prices sensitive to the presence of outliers
 #### Listing Characteristics
 * Listings tend to be clustered around Bart stations
 * Listing prices vary to a great extent across different property type and room type combinations (this makes intuitive sense)
-    * For example, shared Rooms in apartments are \\$47.68 on average, whereas entire houses are \\$226.73 on average.
-* The listings with the most reviews are within the \\$40 - \\$200 price range.
+    * For example, shared Rooms in apartments are \$47.68 on average, whereas entire houses are \$226.73 on average.
+* The listings with the most reviews are within the \$40 - \$200 price range.
 * The most common amenities offered by listings are (in order) wifi, "essentials" (which include toilet paper, soap, towels, pillows, and sheets), smoke detectors, and heating.
 * A commonly used term in listings' descriptions is "San Francisco" suggesting that proximity to San Francisco is a draw to Oakland Airbnb listings.
 #### Price Prediction
