@@ -6,7 +6,7 @@ This repository contains the versions of data, figures generated, and Python not
 The data used in this analysis consists of Airbnb listings characteristics for the city of Oakland, CA from http://insideairbnb.com/get-the-data.html compiled on July 8, 2019.
 
 ## How to Run
-Create a virtual environment and install the packages listed in `requirements.txt` using:
+Make sure you have installed the packages listed in `requirements.txt`. Otherwise, install them by using a command like:
 ```
 pip install -r requirements.txt
 ```
