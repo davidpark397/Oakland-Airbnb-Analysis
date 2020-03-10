@@ -10,6 +10,7 @@ Create a virtual environment and install the packages listed in `requirements.tx
 ```
 pip install -r requirements.txt
 ```
+Download the Python notebook and do what you'd like!
 
 ## Final Takeaways:
 From the Python notebook:
