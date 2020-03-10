@@ -1,4 +1,8 @@
 # Oakland-Airbnb-Analysis
-The data that I will be using for this analysis consists of Airbnb listings characteristics for the city of Oakland, CA from http://insideairbnb.com/get-the-data.html compiled on July 8, 2019.
+## Overview
+This repository contains the versions of data, figures generated, and Python notebook that comprise an analysis of 3000+ Airbnb listings in the city of Oakland. In my experience, I've been very confused as to what determines the price of an Airbnb. When I needed to get an Airbnb in Chicago during an internship, for example, very similar listings (according to my specifications) in the neighborhood that I wanted to stay in displayed large variations in price. The analysis featured here represents an attempt at better understanding the drivers of the price of an airbnb listing as a product of its characteristics. We first clean the data, perform an extensive EDA, and then use regularized regression models to predict price and perform a basic feature importance analysis. 
 
-The analyses produced will mostly be for the purpose of understanding the drivers of an Oakland Airbnb listing's price. We will start off by analyzing and visualizing basic trends in the data. Once we have gained a general idea of how price is affected across numerous different factors, regularized linear models will be applied in order to predict price itself.
+## Data
+The data used in this analysis consists of Airbnb listings characteristics for the city of Oakland, CA from http://insideairbnb.com/get-the-data.html compiled on July 8, 2019.
+
+##
